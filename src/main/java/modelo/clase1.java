@@ -10,5 +10,5 @@ package modelo;
  * @author Usuario
  */
 public class clase1 {
-    
+    //Clase editada
 }

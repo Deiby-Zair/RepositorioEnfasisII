@@ -11,4 +11,13 @@ package modelo;
  */
 public class clase1 {
     //Clase editada
+    int parametro1;
+
+    public int getParametro1() {
+        return parametro1;
+    }
+
+    public void setParametro1(int parametro1) {
+        this.parametro1 = parametro1;
+    }
 }
